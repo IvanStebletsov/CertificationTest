@@ -1,4 +1,4 @@
-# CertificationTest
+# Certification Test
 
 ## This project contain 20 questions about xcode for prepare to Apple Certification.
 
