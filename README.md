@@ -1,4 +1,4 @@
-## This project contain 20 questions about xcode for prepare to Apple Certification.
+## This project includes 20 questions about xcode to prepare for Apple Certification.
 
 <img src="https://github.com/ko1om8o/Certification-Test/blob/master/raw/CertificationTestReadmePic.png" align="center">
 
